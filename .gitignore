@@ -9,3 +9,4 @@ api/_build
 
 /prisma/dev.db
 .env
+.vercel
